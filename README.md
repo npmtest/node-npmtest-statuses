@@ -1,4 +1,7 @@
-# test coverage for  [statuses (v1.3.1)](https://github.com/jshttp/statuses)  [![npm package](https://img.shields.io/npm/v/npmtest-statuses.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-statuses) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-statuses.svg)](https://travis-ci.org/npmtest/node-npmtest-statuses)
+# npmtest-statuses
+
+#### basic test coverage for  [statuses (v1.3.1)](https://github.com/jshttp/statuses)  [![npm package](https://img.shields.io/npm/v/npmtest-statuses.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-statuses) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-statuses.svg)](https://travis-ci.org/npmtest/node-npmtest-statuses)
+
 #### HTTP status utility
 
 [![NPM](https://nodei.co/npm/statuses.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/statuses)
